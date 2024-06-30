@@ -2,3 +2,4 @@ alpine
 python:alpine3.19
 onlyoffice/documentserver
 imdevops/dzzoffice
+mysql:5.7.27
