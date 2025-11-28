@@ -5,3 +5,4 @@ imdevops/dzzoffice
 mysql:5.7.27
 livekit/livekit-server
 livekit/livekit-generate
+gitlab/gitlab-ce
